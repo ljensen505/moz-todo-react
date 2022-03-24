@@ -4,5 +4,5 @@ This simple app was built with React and followed an [MDN tutorial](https://deve
 
 It is a simple to do list that uses React Hooks, along with some minimal styling.
 
-It has been deployed through Heroku and can be found [here](https://link-url-here.org)
+It has been deployed through Heroku and can be found [here](https://todomatic.herokuapp.com/)
 
